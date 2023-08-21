@@ -36,7 +36,7 @@ Own It! is a project developed as part of my 100 days of Python that aims to pro
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Portfolio_Project_4_Image_Watermarking_GUI.git
+   git clone https://github.com/victormartino/Portfolio_Project_4_Image_Watermarking_GUI.git
 2. Navigate to the project directory:
    ```bash
    cd Portfolio_Project_4_Image_Watermarking_GUI
