@@ -46,9 +46,9 @@ Own It! is a project developed as part of my 100 days of Python that aims to pro
 
 ## Dependencies
 
-Python 3.x
-Pillow (PIL) library
-Tkinter library
+- Python 3.x
+- Pillow (PIL) library
+- Tkinter library
 
 ## Contributing
 
